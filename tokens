@@ -1,0 +1,31 @@
+[
+  {
+    "type": "color",
+    "name": "Primary Color",
+    "value": {
+      "r": 0.1,
+      "g": 0.5,
+      "b": 0.9,
+      "a": 1
+    }
+  },
+{
+    "type": "color",
+    "name": "Secondary Color",
+    "value": {
+      "r": 0.1,
+      "g": 0.5,
+      "b": 0.9,
+      "a": 1
+    }
+  },
+  {
+    "type": "typography",
+    "name": "Heading 1",
+    "value": {
+      "fontFamily": "Inter",
+      "fontSize": 24,
+      "lineHeight": 1.5
+    }
+  }
+]
